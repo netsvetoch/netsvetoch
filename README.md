@@ -8,8 +8,8 @@ Available for remote B2B contractor work via individual entrepreneur setup
 
 Phone: \+374 43 329 640  
 Email: netsvour@gmail.com  
-LinkedIn: linkedin.com/in/netsvetoch  
-GitHub: github.com/netsvetoch
+LinkedIn: [@netsvetoch](https://www.linkedin.com/in/netsvetoch/)  
+GitHub: [@netsvetoch](https://github.com/netsvetoch)
 
 ---
 
