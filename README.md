@@ -80,6 +80,19 @@ Previously worked on a company-wide internal cloud platform at Yandex and AI-pow
 
 ---
 
+## Awards & Achievements
+
+**Tender Hack Hackathon Winner — 1st Place**
+Nov 2024 | Saint Petersburg, Russia | Team: Dubachellas
+
+- Won 1st place among 26 teams / 109 developers in a 3-day Tender Hack hackathon focused on developing functionality for the Moscow Supplier Portal.
+- Built frontend and data-driven UI workflows for a prototype service that automatically monitors quotation sessions and checks publication correctness.
+- Implemented MVP interfaces for monitoring results, validation statuses, issue review, and structured data presentation under a 72-hour deadline.
+- Worked with frontend data handling: mapping API responses to UI state, rendering validation results, tables, filters, and user-facing monitoring views.
+- The winning project was covered by multiple media outlets; the hackathon had a RUB 500,000 prize fund.
+
+---
+
 ## **Education**
 
 **Lomonosov Moscow State University**  
